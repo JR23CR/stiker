@@ -1,7 +1,7 @@
 {
   "name": "stickerbot",
   "version": "1.4.0",
-  "description": "StickerBOT by DrelezTM",
+  "description": "StickerBOT by JOSE",
   "main": "index.js",
   "scripts": {
     "start": "node ."
@@ -10,9 +10,9 @@
     "nodejs",
     "whatsapp-web.js",
     "stickerbot",
-    "dreleztm"
+    "JOSE"
   ],
-  "author": "DrelezTM",
+  "author": "JOSE",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
