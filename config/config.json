@@ -1,8 +1,8 @@
 {
     "name": "StickerBOT",
-    "author": "DrelezTM",
+    "author": "Elva Ginon",
     "prefix": "!",
-    "timezone": "Asia/Jakarta",
+    "timezone": "America/Guatemala",
     "groups": true,
     "log": true
 }
